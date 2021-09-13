@@ -23,9 +23,12 @@
         android:layout_alignParentEnd="true"
         android:layout_marginStart="5dp"
         android:layout_marginTop="1dp"
-        android:layout_marginEnd="-51dp"
+        android:layout_marginEnd="0dp"
         android:layout_toEndOf="@+id/ivPoster"
+        android:fontFamily="sans-serif-black"
+        android:textColor="@color/black"
         android:textSize="24sp"
+        android:textStyle="bold"
         tools:text="Shang-Chi and the Legend of the Ten Rings" />
 
     <TextView
@@ -36,5 +39,6 @@
         android:layout_marginStart="5dp"
         android:layout_marginTop="5dp"
         android:layout_toEndOf="@+id/ivPoster"
+        android:textStyle="italic"
         tools:text="Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization." />
 </RelativeLayout>
