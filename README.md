@@ -54,8 +54,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Y0nafr1"  ><a href="//imgur.com/a/Y0nafr1">Flixster App Demo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src="https://imgur.com/vSUEZl3" width=250><br>
 
 ### Open-source libraries used
 
