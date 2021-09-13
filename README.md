@@ -54,7 +54,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/a/6CvRTNN" width=250><br>
+<img src="https://imgur.com/z1ZTIPV" width=250><br>
 
 
 ### Open-source libraries used
